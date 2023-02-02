@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [Esteban Martínez Hernández]
+title: [Esteban Martínez Hernández Portfolio]
 description: [Engineering in Nanotechnology]
 image: /_website/steve.jpg
 ![steve](https://user-images.githubusercontent.com/79880875/216213534-b76f6508-2bb1-4e68-8497-197814a799b1.jpg)
