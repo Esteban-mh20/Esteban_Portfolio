@@ -28,7 +28,7 @@ San Nicolás, Nuevo León, México | August 2022 - present
 Monterrey, Nuevo León | February 2022 - July 2022
 
 * Design of TiO2-based photocatalysts using copper nanoparticles for the production of solar fuels.
-* * *
+ * * * 
 
 ## Projects 
 
@@ -41,5 +41,6 @@ Monterrey, Nuevo León | February 2022 - July 2022
 * Computational study of a molecular system with applications in the generation or storage of Energy
 
 * Obtaining multifunctional superhydrophobic coatings based on metal oxide nanostructures - CARBOMEX Investigación y Producción de Nanomateriales SA de CV
-* * *
+
+* * * 
 
